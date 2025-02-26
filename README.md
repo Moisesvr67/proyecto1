@@ -4,3 +4,7 @@
 hola
 - *baca**
 - *madrid*
+imagen desde la casa
+logo
+
+![Logo](imagenes/logo.jpg)
